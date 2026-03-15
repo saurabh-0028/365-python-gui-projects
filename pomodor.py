@@ -1,4 +1,4 @@
-# Pomodoro Timer — Designed by Mr. Selfish
+## Pomodoro Timer — Designed by Mr. Selfish
 # Run: python pomodoro_timer.py
 
 import tkinter as tk
